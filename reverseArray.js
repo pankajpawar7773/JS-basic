@@ -8,3 +8,4 @@ const reverseArr = ()=>{
     return result
 }
 console.log(reverseArr())
+
